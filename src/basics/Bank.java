@@ -1,12 +1,12 @@
 package basics;
 
 public class Bank {
-
+sdf
 	int accNo;
 	int balance;
 	Bank(){
 		System.out.println("constructor is called");
-		
+hello		
 	}
 	 
 	public Bank(int accNo, int balance ){
